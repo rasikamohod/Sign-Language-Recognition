@@ -1,0 +1,10 @@
+C:\Users\Sony\kinect - project\KinectSimpleGesture\KinectSimpleGesture\bin\Debug\KinectSimpleGesture.exe
+C:\Users\Sony\kinect - project\KinectSimpleGesture\KinectSimpleGesture\bin\Debug\KinectSimpleGesture.pdb
+C:\Users\Sony\kinect - project\KinectSimpleGesture\KinectSimpleGesture\obj\Debug\KinectSimpleGesture.exe
+C:\Users\Sony\kinect - project\KinectSimpleGesture\KinectSimpleGesture\obj\Debug\KinectSimpleGesture.pdb
+C:\Users\Sony\kinect - project\KinectSimpleGesture\KinectSimpleGesture\obj\Debug\KinectSimpleGesture.csprojResolveAssemblyReference.cache
+C:\Users\Sony\kinect - project\KinectSimpleGesture - Copy\KinectSimpleGesture\obj\Debug\KinectSimpleGesture.exe
+C:\Users\Sony\kinect - project\KinectSimpleGesture - Copy\KinectSimpleGesture\obj\Debug\KinectSimpleGesture.pdb
+C:\Users\Sony\kinect - project\KinectSimpleGesture - Copy\KinectSimpleGesture\obj\Debug\KinectSimpleGesture.csprojResolveAssemblyReference.cache
+C:\Users\Sony\kinect - project\KinectSimpleGesture - Copy\KinectSimpleGesture\bin\Debug\KinectSimpleGesture.exe
+C:\Users\Sony\kinect - project\KinectSimpleGesture - Copy\KinectSimpleGesture\bin\Debug\KinectSimpleGesture.pdb
